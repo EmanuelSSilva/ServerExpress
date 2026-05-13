@@ -1,0 +1,51 @@
+[
+  {
+    "Matricula": "3",
+    "nome": "chico",
+    "telefone": "8499999999",
+    "email": "damascenolenildo@gmail.com",
+    "curso": "ADEZIO"
+  },
+  {
+    "Matricula": "1010",
+    "nome": "Emanuel Silva",
+    "telefone": "84991299262",
+    "email": "emanuellinssilva65@gmail.com",
+    "curso": "Engenharia de Software"
+  },
+  {
+    "Matricula": "1010",
+    "nome": "Emanuel Silva",
+    "telefone": "84991299262",
+    "email": "emanuellinssilva65@gmail.com",
+    "curso": "Engenharia de Software"
+  },
+  {
+    "Matricula": "1010",
+    "nome": "Emanuel Silva",
+    "telefone": "84991299262",
+    "email": "emanuellinssilva65@gmail.com",
+    "curso": "Engenharia de Software"
+  },
+  {
+    "Matricula": "1111",
+    "nome": "Emanuel Silva",
+    "telefone": "84991299262",
+    "email": "emanuellinssilva65@gmail.com",
+    "curso": "t.i"
+  },
+  {
+    "Matricula": "0303",
+    "nome": "Emanuel Silva",
+    "telefone": "84991299262",
+    "email": "emanuellinssilva65@gmail.com",
+    "curso": "Engenharia de Software"
+  },
+  {
+    "Matricula": "123456",
+    "nome": "Emanuel Silva",
+    "telefone": "84991299262",
+    "email": "emanuellinssilva65@gmail.com",
+    "curso": "Ciencia de Dados"
+  }
+]

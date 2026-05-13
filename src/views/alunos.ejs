@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alunos</title>
+</head>
+<body>
+    <h1>Lisatar Alunos</h1>
+
+    <% if (alunos.length === 0) { %>
+        <p>Nenhum aluno cadastrado.</p>
+    <% } else { %>
+        <ul>
+            <% alunos.forEach(aluno => { %>
+                <li>
+                    <strong>Matrícula:</strong> <%= aluno.Matricula %> |
+                    <strong>Nome:</strong> <%= aluno.nome %> |
+                    <strong>Telefone:</strong> <%= aluno.telefone %> |
+                    <strong>Email:</strong> <%= aluno.email %> |
+                    <strong>Curso:</strong> <%= aluno.curso %>
+                </li>
+            <% }) %>
+        </ul>
+    <% } %>
+</body>
+</html>

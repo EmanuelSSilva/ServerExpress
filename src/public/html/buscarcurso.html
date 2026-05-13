@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Buscar Curso</title>
+</head>
+<body>
+    <h1>Buscar Curso</h1>
+    <form id="formBusca">
+        <label for="curso">Nome do Curso:</label>
+        <input type="text" id="curso" name="curso">
+        <button type="submit">Buscar</button>
+    </form>
+
+    <script>
+        document.getElementById('formBusca').addEventListener('submit', (e) => {
+            e.preventDefault()
+            const nomeCurso = document.getElementById('curso').value
+            window.location.href = `/curso/${nomeCurso}`
+        })
+    </script>
+</body>
+</html>

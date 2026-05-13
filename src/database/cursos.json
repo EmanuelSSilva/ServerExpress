@@ -1,0 +1,35 @@
+[
+  {
+    "cod": "24",
+    "curso": "Desenvolvimento de Sistema",
+    "ch": "1200",
+    "tipo": "online"
+  },
+  {
+    "cod": "25",
+    "curso": "full",
+    "ch": "200",
+    "tipo": "onle"
+  },
+  {
+    "id": "00bc9b27-d011-4ddd-b079-754de0d24a91",
+    "cod": "256",
+    "curso": "walber",
+    "ch": "52635",
+    "tipo": "fffff"
+  },
+  {
+    "id": "2676d5c9-fa29-4ddb-98fe-1a536e30d39b",
+    "cod": "256",
+    "curso": "daniel",
+    "ch": "52635",
+    "tipo": "fffff"
+  },
+  {
+    "id": "cbea9500-e6b3-4f3f-a379-b80b9c5f0e4d",
+    "cod": "365",
+    "curso": "daniel",
+    "ch": "2400",
+    "tipo": "5556"
+  }
+]
